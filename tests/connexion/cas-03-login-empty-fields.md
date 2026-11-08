@@ -13,3 +13,4 @@ Soumission du formulaire de connexion avec les champs vides.
 ## Résultat attendu
 - Le formulaire n'est pas soumis.
 - Les champs s'affichent en surbrillance rouge avec la mention "Champ obligatoire".
+- Tous les champs sont à jour
